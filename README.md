@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cw-y&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cw-y&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# MY BLOG
-<a href "https://velog.io/@anas_"/>
